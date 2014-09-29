@@ -2,7 +2,6 @@
 require 'rack'
 require 'test/unit'
 require 'rspec/expectations'
-#require 'URI'
 require_relative '../src/rack_test_app'
 
 class TestRequests < Test::Unit::TestCase
